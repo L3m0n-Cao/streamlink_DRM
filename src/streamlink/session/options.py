@@ -330,6 +330,7 @@ class StreamlinkOptions(Options):
             "ffmpeg-verbose": False,
             "ffmpeg-verbose-path": None,
             "ffmpeg-fout": None,
+            "ffmpeg-dkey": None,
             "ffmpeg-video-transcode": None,
             "ffmpeg-audio-transcode": None,
             "ffmpeg-copyts": False,
